@@ -1,5 +1,6 @@
 # http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_A
 # Range Query - Range Minimum Query (RMQ)
+
 class RMQ
   def initialize(n, max)
     @max = max

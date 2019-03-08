@@ -1,3 +1,5 @@
+# http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C
+# Shortest Path - All Pairs Shortest Path
 
 inf = 2 ** 50
 vn, en = gets.split.map(&:to_i)

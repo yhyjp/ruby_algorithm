@@ -1,3 +1,6 @@
+# http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A
+# Shortest Path - Single Source Shortest Path
+
 require "set"
 
 class St
